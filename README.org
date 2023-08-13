@@ -2,9 +2,8 @@
 
 Exit codes defined in sysexits.h for Common Lisp
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/teddywing/cl-sysexits.git   |
-| commit  | a3997d8  |
-| systems | cl-sysexits |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/teddywing/cl-sysexits.git |
+| commit  | a3997d8                                          |
+| systems | (sysexits)                                       |
+|---------+--------------------------------------------------|
